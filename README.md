@@ -1,2 +1,12 @@
 # Symptom-Checker-Health-Recommendation-App
- A mobile application where users input health symptoms and receive real-time predictions of possible medical conditions, along with recommended next steps. The app leverages a trained Machine Learning model served through a Flask API, ensuring personalized and data-driven health insights.
+ This AI-powered mobile app provides instant, personalized health recommendations based on user-reported symptoms. Built using Flutter, backed by Firebase, and driven by a Python Flask ML model, it brings data-driven healthcare insights right to your fingertips.
+
+💡 Key Highlights:
+✅ Real-time symptom analysis
+✅ AI-generated health recommendations
+✅ Clean UI/UX with Flutter
+✅ Secure and scalable with Firebase
+✅ Predictive ML insights using Flask
+
+🔧 Tech Stack: Flutter | Firebase | Python Flask (ML)
+📌 Domains: HealthTech | AI in Healthcare | Mobile Development
